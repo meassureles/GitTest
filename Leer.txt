@@ -1,0 +1,7 @@
+2024-04-21
+ juan cruz
+
+aplicación en NodeJS que se conecta con base de datos de Mongo DB
+
+Solo permite almacenar, actualizar, buscar y borrar entradas de usuarios en línea.
+
